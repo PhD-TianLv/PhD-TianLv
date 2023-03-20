@@ -48,7 +48,7 @@
 - DeepBlue Technology （Shanghai）<sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DeepBlue%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DeepBlue%20Internship-red?style=plastic"></a></sub>
 
 ### Research Experience
-NOTE: **STILL IN PROGRESS**. This is only an interim result. </br>
+> NOTE: **STILL IN PROGRESS**. This is only an interim result. </br>
 [1] Tian Lv, Chongyang Bai, and Chaojie Wang. MDMLP: Image classification from scratch on small datasets with 
 mlp. arXiv preprint arXiv:2205.14477, 2022. <sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/Recommendation%20Letter.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Recommendation%20Letter-red?style=plastic"></a></sub>
 
