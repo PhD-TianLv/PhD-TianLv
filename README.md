@@ -25,7 +25,7 @@
  </tr>
   <tr>
   <td>1. </td>
-  <td>The 23rd Robotics and AI Competition (Deep learning intelligent vehicle group)</td>
+  <td>The 23rd Robotics and AI Competition (Deep learning group)</td>
   <td align="center">National 2nd Prize <sub><a href="Certificates/The%2023rd%20Robotics%20and%20AI%20Compeitition%20(Driveless%20Challenge%20Group).pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp1-red?style=plastic"></a></sub></td>
   <td>Dec, 2021</td>
  </tr>
