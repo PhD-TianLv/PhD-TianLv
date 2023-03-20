@@ -4,7 +4,7 @@
 - I'm currently studing in the School of Robotics at Hunan University. 
 <sub><a href="http://hnuvpai.github.io/" target="_blank"><img src="https://img.shields.io/badge/Lab%20Page-Shutao%20Team-red?style=plastic"></a></sub>
 - I'm currently interning in the DiDi Da Vinci Department.
-<sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DiDi%20Intership.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DiDi%20Intership-red?style=plastic"></a></sub>
+<sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DiDi%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DiDi%20Internship-red?style=plastic"></a></sub>
 
  
 ### Education Experience
@@ -25,7 +25,7 @@
  </tr>
   <tr>
   <td>1. </td>
-  <td>The 23rd Robotics and AI Competition (Deep learning group)</td>
+  <td>The 23rd Robotics and AI Competition (Deep Learning Group)</td>
   <td align="center">National 2nd Prize <sub><a href="Certificates/The%2023rd%20Robotics%20and%20AI%20Compeitition%20(Driveless%20Challenge%20Group).pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp1-red?style=plastic"></a></sub></td>
   <td>Dec, 2021</td>
  </tr>
@@ -43,6 +43,15 @@
  </tr>
 </table>
  
+ ### Internship Experience
+ - DiDi Da Vinci <sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DiDi%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DiDi%20Internship-red?style=plastic"></a></sub>
+- DeepBlue Technology （Shanghai）<sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DeepBlue%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DeepBlue%20Internship-red?style=plastic"></a></sub>
+
+### Research Experience
+NOTE: **STILL IN PROGRESS**. This is only an interim result. </br>
+[1] Tian Lv, Chongyang Bai, and Chaojie Wang. MDMLP: Image classification from scratch on small datasets with 
+mlp. arXiv preprint arXiv:2205.14477, 2022. <sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/Recommendation%20Letter.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Recommendation%20Letter-red?style=plastic"></a></sub>
+
 <!--
 **Amoza-Theodore/Amoza-Theodore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
