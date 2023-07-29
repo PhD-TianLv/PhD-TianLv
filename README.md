@@ -9,7 +9,7 @@
 
 <table>
  <tr><td align="center"><b>Jiangsu University</b></td><td>Measurement & Control Technology And Instrumentation</td><td align="center">Bachelor</td><td>Sep, 2019 - Jun, 2023</td></tr>
- <tr><td align="center"><b>Hunan University</b></td><td align="center">Robot Perception</td><td align="center">PhD</br><sub><a href="Certificates/PhD%20Admission%20Letter" target="_blank"><img src="https://img.shields.io/badge/Certificate-PhD-red?style=plastic"></a></sub></td><td>Sep, 2023 - Jun, 2028 </td></tr>
+ <tr><td align="center"><b>Hunan University</b></td><td align="center">Robot Perception</td><td align="center">PhD</br><sub><a href="Certificates/PhD%20Admission%20Letter.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-PhD-red?style=plastic"></a></sub></td><td>Sep, 2023 - Jun, 2028 </td></tr>
 </table>
  
  ### Competition Awards (in China)
