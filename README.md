@@ -42,7 +42,7 @@
 </table>
  
  ### Internship Experience
- - DiDi Da Vinci <sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DiDi%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DiDi%20Internship-red?style=plastic"></a></sub>
+ - DiDi | Department: Dynamic Obstacle Perception <sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DiDi%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DiDi%20Internship-red?style=plastic"></a></sub>
 - DeepBlue Technology （Shanghai）<sub><a href="https://github.com/Amoza-Theodore/Amoza-Theodore/blob/main/Certificates/DeepBlue%20Internship.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-DeepBlue%20Internship-red?style=plastic"></a></sub>
 
 ### Research Experience
