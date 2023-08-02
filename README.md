@@ -1,5 +1,5 @@
 ### Hi, I'm **Tian Lv**.
-> A PhD student in the field of **Autonomous Driving Perception**.
+> A PhD student in the field of **Robotic / Autonomous Driving Perception**.
 
 - I'm currently studing in the School of Robotics at Hunan University. 
 <sub><a href="http://hnuvpai.github.io/" target="_blank"><img src="https://img.shields.io/badge/Lab%20Page-Shutao%20Team-red?style=plastic"></a></sub>
