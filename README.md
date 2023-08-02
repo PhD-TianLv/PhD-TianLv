@@ -29,13 +29,13 @@
  </tr>
  <tr>
   <td>3. </td>
-  <td>The 15th Smart Car Competition</td>
+  <td>The 15th Autonomous Driving Competition</td>
   <td align="center">National 2nd Prize</br> <sub><a href="Certificates/The%2015th%20Smart%20Car%20Competition.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp3-red?style=plastic"></a></sub></td>
   <td>Aug, 2020</td>
  </tr>
  <tr>
   <td>4. </td>
-  <td>The 16th Smart Car Competition</td>
+  <td>The 16th Autonomous Driving Competition</td>
   <td align="center">National 2nd Prize</br> <sub><a href="Certificates/The%2016th%20Smart%20Car%20Competition.pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp4-red?style=plastic"></a></sub></td>
   <td>Aug, 2021</td>
  </tr>
