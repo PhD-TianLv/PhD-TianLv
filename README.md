@@ -24,7 +24,7 @@
   <tr>
   <td>2. </td>
   <td>The 23rd Robotics and AI Competition (Deep Learning Group)</td>
-  <td align="center">National 2nd Prize</br> <sub><a href="Certificates/The%2023rd%20Robotics%20and%20AI%20Compeitition%20(Deep%20learning%20intelligent%20vehicle%20group).pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp2-red?style=plastic"></a></sub></td>
+  <td align="center">National 2nd Prize</br> <sub><a href="Certificates/The%2023rd%20Robotics%20and%20AI%20Competition%20(Deep%20learning%20intelligent%20vehicle%20group).pdf" target="_blank"><img src="https://img.shields.io/badge/Certificate-Comp2-red?style=plastic"></a></sub></td>
   <td>Dec, 2021</td>
  </tr>
  <tr>
